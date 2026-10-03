@@ -28,8 +28,6 @@
 
 简单说，**手里有研报、想把它读明白，选信息处理；有研究想法、希望 AI 查资料做分析，选研究分析。**
 
-Haoge Skills is a collection of independent AI skills for report processing and research. Output defaults to Simplified Chinese; request another language if your AI supports it.
-
 ## 目前有哪些
 
 | 分类 | 技能 | 安装与调用名称 |
