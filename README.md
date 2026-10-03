@@ -14,10 +14,17 @@
 
 ## 先选你要做的事
 
-| 你现在要做什么 | 去哪一组 | 默认拿到什么 |
-|---|---|---|
-| 手里已有公司或行业研报，想读清楚、翻译并整理 | [信息处理](skills/information-processing/README.md) | 对话中的完整中文 Markdown 摘要 |
-| 给一个公司名或行业主题，希望 AI 查资料、分析与比较 | [研究分析](skills/research-analysis/README.md) | 中文 HTML 研究报告；行业版另附简短聊天摘要 |
+### [信息处理](skills/information-processing/README.md)
+
+手里已有公司或行业研报，想读清楚、翻译并整理，选这一组。
+
+**默认拿到：** 对话中的完整中文 Markdown 摘要。
+
+### [研究分析](skills/research-analysis/README.md)
+
+给一个公司名或行业主题，希望 AI 查资料、分析与比较，选这一组。
+
+**默认拿到：** 中文 HTML 研究报告；行业版另附简短聊天摘要。
 
 简单说，**手里有研报、想把它读明白，选信息处理；有研究想法、希望 AI 查资料做分析，选研究分析。**
 
