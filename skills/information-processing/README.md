@@ -2,6 +2,19 @@
 
 **[Haoge Truth · 浩哥的真话圈](https://x.com/haogetruth)** · [返回总目录](../../README.md)
 
+把一份研报里的观点、依据和关键数字，整理成能读懂、方便回查的摘要。下面是一份行业研报处理后的样子。
+
+![行业研报处理示例：一句话结论、核心观点和产业链拆解](../../docs/hgs-information-processing-example.png)
+
+*截图来自既有案例的 Discord 展示。你用自己的 AI 就行，默认拿到的是对话中的 Markdown 摘要，不需要 Discord，也不会自动推送。示例日期和观点属于当时材料。*
+
+<details>
+<summary>再看看产业链拆解和竞争格局</summary>
+
+![行业研报处理后续示例：产业链节点、竞争格局与趋势](../../docs/hgs-information-processing-detail.png)
+
+</details>
+
 我是 [浩哥 / @haogetruth](https://x.com/haogetruth)。我把平时常用的信息处理、研究分析框架和具体要求，都整理成了这些 skill。这样每次都能直接复用，不用重新解释一遍，也能让产出的结构和质量更稳定。
 
 你可以搭配自己的 AI Agent 来用。做信息处理时，把自己的材料和对应的 skill 一起给 AI。目前的信息处理技能主要用于研报，建议优先用正规机构发布、内容完整清晰的报告，方便 AI 提取观点、数据和证据。
